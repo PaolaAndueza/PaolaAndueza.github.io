@@ -1,0 +1,101 @@
+.porta{
+    background-image:url(pu1.webp) ;
+    width: 100%;
+    height: 1000px;
+    background-size: cover;
+    background-position: 100%;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.logo{
+    max-width: 50%; /* O ajusta según sea necesario */
+    width: 100%; /* Asegura que el logotipo ocupe todo el ancho disponible */
+    margin: 0 auto; /* Margen automático a la izquierda y derecha para centrar horizontalmente */
+    text-align: center; /* Centra el contenido del logotipo */
+}
+.logo img{
+    max-width: 100%; 
+    height: auto; /* Mantener la proporción original de la imagen */
+    display: block;
+
+}
+main{
+    background-color: black;
+    width:100%;
+    height: 100%;
+
+}
+.space1{
+    height:50px ;
+    width: auto;
+}
+.icon{
+   
+    max-width: 50%; /* O ajusta según sea necesario */
+    width: 100%; /* Asegura que el logotipo ocupe todo el ancho disponible */
+    margin: 0 auto; /* Margen automático a la izquierda y derecha para centrar horizontalmente */
+    text-align: center
+}
+.icon img{
+    max-width: 100%; 
+    height: 100px; /* Mantener la proporción original de la imagen */
+    width: 100px;
+    display: block;
+    margin-left: 45%;
+    margin-right: 50%;
+
+
+}
+h1{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+   
+    font-family: 'Times New Roman', Times, serif;
+}
+.gallery img{
+height: 10%;
+width: 10%;
+}
+.log{
+    max-width: 50%; 
+    width: 100%; 
+    margin: 0 auto;
+    text-align: center;}
+.log img{
+    max-width: 100%; 
+    height: 90%; /* Mantener la proporción original de la imagen */
+    width: 90%;
+    display: block;
+ 
+}
+.texto {
+    font-size: 200%;
+    color: #ffffff;
+}
+.card h-100{
+   border-color: rgb(48, 0, 0)2, 4, 4
+}
+.card-body{
+    background-color: black;
+    color: #ffffff;
+}
+.card-footer{
+    background-color: black;
+    color: #ffffff;  
+}
+
+footer{
+    background-color: black;
+    color: #ffffff;
+}
